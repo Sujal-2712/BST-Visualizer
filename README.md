@@ -7,8 +7,6 @@
         <li>In-order traversal of the BST</li>
         <li>Vertical visualization of the BST</li>
     </ul>
-    <h2>Getting Started</h2>
-    <p>To get started with the BST Visualizer, follow the instructions below:</p>
     <h3>Prerequisites</h3>
     <ul>
         <li>GCC or any C++ compiler</li>
